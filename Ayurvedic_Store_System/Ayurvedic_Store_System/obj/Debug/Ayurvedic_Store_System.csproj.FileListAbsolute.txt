@@ -1,0 +1,12 @@
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
+E:\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+E:\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+E:\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+E:\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
